@@ -4,3 +4,5 @@ if(one){
 }
 
 console.log('check');
+
+console.log('remove-checking')
