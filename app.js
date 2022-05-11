@@ -3,4 +3,4 @@ if(one){
     console.log(`yes ${r}`);
 }
 
-console.log('check');
+console.log('done-checking-master');
